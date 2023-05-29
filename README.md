@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm M. Rifki Oskar</h1>
 <h3 align="center">A passionate Data Analytics / Data Science from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkioskar&label=Profile%20views&color=0e75b6&style=flat" alt="rifkioskar" /> </p>
-
 - 🌱 I’m currently learning **Data Analytics / Data Science**
 
 - 💬 Ask me about **Data Analytics / Data Science**
