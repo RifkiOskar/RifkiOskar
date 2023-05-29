@@ -1,3 +1,7 @@
+<img width="100%" alt="Developer Illustration" src="https://github.com/RifkiOskar/RifkiOskar/blob/master/Illustration2.gif"/>
+
+<p align='center'><small>Chill Mario by <a href="https://www.behance.net/pixeljeff" target="_blank">Pixel Jeff</a></small></p>
+
 <h1 align="center">Hi, Welcome to my Github profile! 👋</h1>
 <h3 align="center">A passionate Data Analytics / Data Science from Indonesia</h3>
 
