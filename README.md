@@ -59,6 +59,6 @@
   </div>
 </div>
 
-<p><img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifkioskar&show_icons=true&locale=en&layout=compact" alt="rifkioskar" /></p>
+<p><img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifkioskar&gil&theme=react&show_icons=true&locale=en&layout=compact" alt="rifkioskar" /></p>
 
-<p><img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=rifkioskar&show_icons=true&locale=en" alt="rifkioskar" /></p>
+<p><img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=rifkioskar&theme=react&show_icons=true&locale=en" alt="rifkioskar" /></p>
