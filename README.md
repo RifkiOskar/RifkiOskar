@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://camo.githubusercontent.com/55e4079e69ec5d8246620ecff24ed093877ab0f9011e71d8dec0a2c460c886ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="mssql" width="40" height="40"/> 
   </a> 
