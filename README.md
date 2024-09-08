@@ -29,6 +29,8 @@
 ![Static Badge](https://img.shields.io/badge/VUE.JS-black?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Static Badge](https://img.shields.io/badge/NEXT.JS-35495E?style=for-the-badge&logo=next.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/BOOTSTRAP-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TAILWIND-white?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+
 
 
 
