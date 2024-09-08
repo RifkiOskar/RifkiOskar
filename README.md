@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/PANDAS-white?style=for-the-badge&logo=pandas&logoColor=blue)
 ![](https://img.shields.io/badge/NUMPY-white?style=for-the-badge&logo=numpy&logoColor=blue)
 ![](https://img.shields.io/badge/SKLEARN-white?style=for-the-badge&logo=scikit-learn&logoColor=blue)
-![](https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+![](https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/BOOTSTRAP-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### DATABASE
