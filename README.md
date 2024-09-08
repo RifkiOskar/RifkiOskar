@@ -23,11 +23,11 @@
 ### FRAMEWORK
 
 ![](https://img.shields.io/badge/DJANGO-43853D?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/VUE.JS-black?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/PANDAS-white?style=for-the-badge&logo=pandas&logoColor=blue)
 ![](https://img.shields.io/badge/NUMPY-white?style=for-the-badge&logo=numpy&logoColor=blue)
 ![](https://img.shields.io/badge/SKLEARN-white?style=for-the-badge&logo=scikit-learn&logoColor=blue)
-![](https://img.shields.io/badge/VUE.JS-black?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/BOOTSTRAP-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/TAILWIND-white?style=for-the-badge&logo=tailwindcss&logoColor=blue)
 
@@ -41,8 +41,8 @@
 ### PLATFORM
 
 ![](https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
-![](https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=orange)
 ![](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter&logoColor=orange)
 ![](https://img.shields.io/badge/anaconda-white?style=for-the-badge&logo=anaconda&logoColor=green)
 ![](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue)
 
