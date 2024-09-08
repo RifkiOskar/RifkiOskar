@@ -23,11 +23,11 @@
 ### FRAMEWORK
 
 ![Static Badge](https://img.shields.io/badge/DJANGO-43853D?style=for-the-badge&logo=django&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PANDAS-white?style=for-the-badge&logo=pandas&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PANDAS-white?style=for-the-badge&logo=pandas&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/NUMPY-white?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/SKLEARN-white?style=for-the-badge&logo=scikit-learn&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/VUE.JS-black?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Static Badge](https://img.shields.io/badge/NEXT.JS-35495E?style=for-the-badge&logo=next.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js&logoColor=4FC08D)
 ![Static Badge](https://img.shields.io/badge/BOOTSTRAP-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/TAILWIND-white?style=for-the-badge&logo=tailwindcss&logoColor=blue)
 
